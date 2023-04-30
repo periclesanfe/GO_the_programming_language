@@ -6,7 +6,20 @@
 <img src="https://img.shields.io/badge/INTRODUÇÃO-blue">
 </p>
 
-<p align="justify">TEXTO</p>
+<div align='center'>
+  
+| ESPECIFICAÇÕES TÉCNICAS DE GO  |
+|--------------------------------|
+| LINGUAGEM DE CÓDIGO ABERTO |
+|  DESENVOLVIDO PELA EMPRESA <img src="https://logodownload.org/wp-content/uploads/2014/09/google-logo-1.png" width="40" heith="40">  |
+| PRODUTIVIDADE |
+| PROGRAMAÇÃO CONCORRENTE | 
+| MULTIPLATAFORMA |
+|  COMPILADA  |
+|  FORTEMENTE TIPADA |
+|  |
+</div>
+
 
 # 
 <p align="center">
