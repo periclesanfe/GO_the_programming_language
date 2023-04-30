@@ -36,31 +36,39 @@
 
 
 <img src="https://img.shields.io/badge/PASSO 4-lightblue">
+<p>Já na pasta que o arquivo foi salvo, execute o mesmo com um duplo clique.</p>
 <p align="center">
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/instalacao3.jpg">
 </p>
 
 <img src="https://img.shields.io/badge/PASSO 5-lightblue">
+<p>Ao abrir o Instalador, a primeira coisa a se fazer é clicar e NEXT</p>
 <p align="center">
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/instalacao4.jpg">
 </p>
 
 <img src="https://img.shields.io/badge/PASSO 6-lightblue">
+<p>Na página de licença e termos, é necessário marcar a caixa que diz: "Eu Aceito os Termos do Contrato de Licença."</p>
+<p>Com a caixinha marcada, clicar em NEXT</p>
 <p align="center">
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/instalacao5.jpg">
 </p>
 
 <img src="https://img.shields.io/badge/PASSO 7-lightblue">
+<p>Na página de Pasta de Destino, caso desejar mudar o local de instalação, clique em CHANGE e navegue até o arquivo desejado.</p>
+<p>Com a página de instalção desejada, clicar em NEXT</p>
 <p align="center">
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/instalacao6.jpg">
 </p>
 
 <img src="https://img.shields.io/badge/PASSO 8-lightblue">
+<p>Na página de Preparado para Instalação, clique em NEXT e espere a instalação ser concluida.</p>
 <p align="center">
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/instalacao7.jpg">
 </p>
 
 <img src="https://img.shields.io/badge/PASSO 9-lightblue">
+<p>Por fim, com a instalação concluída, clicar em FINISH</p>
 <p align="center">
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/instalacao8.jpg">
 </p>
