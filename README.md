@@ -13,12 +13,12 @@
 |--------------------------------|
 | OPER SOURCE |
 |  DESENVOLVIDO PELA EMPRESA <img src="https://logodownload.org/wp-content/uploads/2014/09/google-logo-1.png" width="40" heith="40">  |
-| TEM FOCO EM: PRODUTIVIDADE, PROGRAMAÇÃO CONCORRENTE E DESELVOLVIMENTO MULTIPLATAFORMA |
+| TEM FOCO EM: PRODUTIVIDADE, SIMPLICIDADE E DESELVOLVIMENTO MULTIPLATAFORMA |
 | COMPILADA | 
-| ACEITA OS PARADIGMAS: IMPERATIVO,  |
-|  ACEITA PROGRAMAÇÃO FUNCIONAL: FUNÇÕES ANÔNIMAS, CLOJURES E FUNÇÕES DE PRIMEIRA CLASSE |
-|  FORTEMENTE E ESTATICAMENTE TIPADA |
+| ACEITA OS PARADIGMAS: PROGRAMAÇÃO ESTRUTURADA, PROGRAMAÇÃO CONCORRENTE E ORIENTAÇÃO A OBJETOS |
 | NÃO UTILIZA CLASSES, MAS TRABALHA COM STRUCT |
+|  ACEITA PROGRAMAÇÃO FUNCIONAL: FUNÇÕES ANÔNIMAS, CLOSURES E FUNÇÕES DE PRIMEIRA CLASSE |
+|  FORTEMENTE E ESTATICAMENTE TIPADA |
 | BASEADA EM <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="15"> E <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.6.0/1676423977534/Microsoft.VisualStudio.Services.Icons.Default" width="15"> |
 </div>
 
@@ -77,7 +77,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/PASSO 8-lightblue">
-<p>Na página de Preparado para Instalação, clique em NEXT e espere a instalação ser concluida.</p>
+<p>Na página de Preparado para Instalação, clique em INSTALL e espere a instalação ser concluida.</p>
 <p align="center">
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/instalacao7.jpg">
 </p>
