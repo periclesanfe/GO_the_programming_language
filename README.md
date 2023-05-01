@@ -1,23 +1,25 @@
-<img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/IFAL_Macei_vertical.png" style="width: 40px; height: 70px;">
 <p align="center"><img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/800px-Go_Logo_Blue.svg.png" height="100" width="300"></p>
+<img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/IFAL_Macei_vertical.png" style="width: 50px; height: 70px;">
 
 # 
 <p align="center">
 <img src="https://img.shields.io/badge/INTRODUÇÃO-blue">
 </p>
+<img src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" width="60">
 
 <div align='center'>
   
 | ESPECIFICAÇÕES TÉCNICAS DE GO  |
 |--------------------------------|
-| LINGUAGEM DE CÓDIGO ABERTO |
+| OPER SOURCE |
 |  DESENVOLVIDO PELA EMPRESA <img src="https://logodownload.org/wp-content/uploads/2014/09/google-logo-1.png" width="40" heith="40">  |
-| PRODUTIVIDADE |
-| PROGRAMAÇÃO CONCORRENTE | 
-| MULTIPLATAFORMA |
-|  COMPILADA  |
-|  FORTEMENTE TIPADA |
-|  |
+| TEM FOCO EM: PRODUTIVIDADE, PROGRAMAÇÃO CONCORRENTE E DESELVOLVIMENTO MULTIPLATAFORMA |
+| COMPILADA | 
+| ACEITA OS PARADIGMAS: IMPERATIVO,  |
+|  ACEITA PROGRAMAÇÃO FUNCIONAL: FUNÇÕES ANÔNIMAS, CLOJURES E FUNÇÕES DE PRIMEIRA CLASSE |
+|  FORTEMENTE E ESTATICAMENTE TIPADA |
+| NÃO UTILIZA CLASSES, MAS TRABALHA COM STRUCT |
+| BASEADA EM <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="15"> E <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.6.0/1676423977534/Microsoft.VisualStudio.Services.Icons.Default" width="15"> |
 </div>
 
 
@@ -97,4 +99,20 @@ go version
 <p>- para linux:</p>
 <p>Execute os passos adicionais presentes no <a href="https://go.dev/doc/install">LINK</a>.</p>
 
+##
+<p align="center"><img src="https://img.shields.io/badge/AMBIENTES DE DESENVOLVIMENTO-lightgreen"></p>
+<h3>VSCODE <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="15"></h3>
+<p>Para utilizar o VSCODE como IDE para desenvolver em GO, basta instalar o mesmo no <a href="https://code.visualstudio.com">LINK</a></p>
+<p>Em seguida, instalar essas duas extensões e seu ambiente já vai estar pronto para compilar seu codigo:</p>
+<div align="center">
+<img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/extensao1.jpg">
+<img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/extensao2.jpg">
+</div>
+<p></p>
+<h3>GOLANG <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="15"></h3>
+<p>Para utilizar o GoLang como IDE para desenvolver em Go, basta instalar o mesmo no <a href="https://www.jetbrains.com/go/promo/?source=google&medium=cpc&campaign=10156130867&term=goland&content=545953862520&gad=1&gclid=CjwKCAjwo7iiBhAEEiwAsIxQETUtByKBMBammJqrTdu14nJgOwlPEbcRxWN6Iq35WvQRPsMxxMy-IhoCzvAQAvD_BwE">LINK</a></p>
+<p></p>
+<h3>GO PLAYGROUND <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" width="15"></h3>
+<p>Para brincar e fazer códigos de teste em GO, a própria linguagem possui um ambiente virtual chamado <a href="https://go.dev/play/">GO Playground</a>, basta abrir e codar!</p>
+<p></p>
 
