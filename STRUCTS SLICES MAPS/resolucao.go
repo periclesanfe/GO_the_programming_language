@@ -15,6 +15,6 @@ func fibonacci() func() int {
 func main() {
 	f := fibonacci()
 	for i := 0; i < 10; i++ {
-		fmt.Println(f())
+		fmt.Println(f()) // imprime os 10 primeiros números da série de Fibonacci
 	}
 }
