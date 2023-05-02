@@ -109,7 +109,7 @@ go version
 <img src="https://github.com/periclesanfe/GO_the_programming_language/blob/main/screenshots/extensao2.jpg">
 </div>
 <p></p>
-<h3>GOLANG <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="15"></h3>
+<h3>GOLAND <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="15"></h3>
 <p>Para utilizar o GoLang como IDE para desenvolver em Go, basta instalar o mesmo no <a href="https://www.jetbrains.com/go/promo/?source=google&medium=cpc&campaign=10156130867&term=goland&content=545953862520&gad=1&gclid=CjwKCAjwo7iiBhAEEiwAsIxQETUtByKBMBammJqrTdu14nJgOwlPEbcRxWN6Iq35WvQRPsMxxMy-IhoCzvAQAvD_BwE">LINK</a></p>
 <p></p>
 <h3>GO PLAYGROUND <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" width="15"></h3>
