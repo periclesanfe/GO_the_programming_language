@@ -11,7 +11,7 @@
   
 | ESPECIFICAÇÕES TÉCNICAS DE GO  |
 |--------------------------------|
-| OPER SOURCE |
+| OPEN SOURCE |
 |  DESENVOLVIDO PELA EMPRESA <img src="https://logodownload.org/wp-content/uploads/2014/09/google-logo-1.png" width="40" heith="40">  |
 | TEM FOCO EM: PRODUTIVIDADE, SIMPLICIDADE E DESELVOLVIMENTO MULTIPLATAFORMA |
 | COMPILADA | 
