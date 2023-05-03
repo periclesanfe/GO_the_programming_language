@@ -1,4 +1,4 @@
-// As funções Go podem ser closures. Um closure é uma função valore que referencia variáveis de fora de seu corpo.
+// As funções Go podem ser closures. Um closure é uma função valor que referencia variáveis de fora de seu corpo.
 // A função pode acessar e atribuir nas variáveis referenciadas; Nesse sentido, a função é "Limitada" às variáveis.
 // Por exemplo, a função adder retorna uma closure.
 
